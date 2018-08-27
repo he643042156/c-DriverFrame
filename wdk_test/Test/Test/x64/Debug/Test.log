@@ -1,0 +1,22 @@
+﻿  Building 'Test' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Debug\Test.inf [Version] section with DriverVer=04/07/2017,18.41.45.401
+  Driver.c
+  Test.vcxproj -> E:\wdk_test\Test\x64\Debug\Test.sys
+  Test.vcxproj -> E:\wdk_test\Test\x64\Debug\Test.pdb (Full PDB)
+  Done Adding Additional Store
+  Successfully signed: E:\wdk_test\Test\x64\Debug\Test.sys
+  
+  ..........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  E:\wdk_test\Test\x64\Debug\Test\test.cat
+  Done Adding Additional Store
+  Successfully signed: E:\wdk_test\Test\x64\Debug\Test\test.cat
+  

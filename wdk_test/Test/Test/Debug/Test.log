@@ -1,0 +1,26 @@
+﻿  Building 'Test' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping Debug\Test.inf [Version] section with DriverVer=04/07/2017,11.11.50.338
+  Device.c
+  Driver.c
+  Queue.c
+  正在生成代码...
+  Test.vcxproj -> E:\Test\Debug\Test.sys
+  Test.vcxproj -> E:\Test\Debug\Test.pdb (Full PDB)
+  Done Adding Additional Store
+  Successfully signed: E:\Test\Debug\Test.sys
+  
+  Driver is a Universal Driver.
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  E:\Test\Debug\Test\test.cat
+  Done Adding Additional Store
+  Successfully signed: E:\Test\Debug\Test\test.cat
+  
